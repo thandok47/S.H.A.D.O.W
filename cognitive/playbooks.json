@@ -1,0 +1,17 @@
+# Governance rules
+{
+	"rules": [
+		{
+			"task_type": "cipher",
+			"policy": "Allow if educational tier"
+		},
+		{
+			"task_type": "lumos",
+			"policy": "Log all communications"
+		},
+		{
+			"task_type": "ignis",
+			"policy": "Restricted to municipal tier"
+		}
+	]
+}
