@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Vision, architecture, usage
 # S.H.A.D.O.W (NYXION CORE)
 
@@ -67,3 +68,4 @@ Use of the name "S.H.A.D.O.W" outside this repository does not imply independent
 Maintainer: Thando Khumalo (BLACK SHADOW)  
 Email: thandovkhumalo@icloud.com  
 GitHub: [https://github.com/thandok47](https://github.com/thandok47)
+
